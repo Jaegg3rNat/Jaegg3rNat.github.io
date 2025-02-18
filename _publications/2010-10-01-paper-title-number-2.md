@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2023-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: '[DOI](https://doi.org/10.1016/j.physa.2023.129246)'
 citation: 'Silvano, Nathan; Barci, Daniel. (2010). &quot;The role of multiplicative noise in critical dynamics.&quot; <i>Phys. A</i>. 1(2).'
 ---
