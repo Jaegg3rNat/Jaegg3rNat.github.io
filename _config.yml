@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nathan / Site Title"
+title                    : "Silvano's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "Jaegg3rNat/Jaegg3rNat.github.io"
 author:
   # Biographic information
   avatar           : "eu_.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Nathan Silvano"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc Research in Complex Systems and Stochastic Process"
   location         : "Earth"
   employer         : "[IFISC - Institute for Cross-Disciplinary Physics and Complex Systems](https://ifisc.uib-csic.es/en/people/nathan-silvano/)  "
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Jaegg3rNat"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
