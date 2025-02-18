@@ -7,7 +7,6 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-or <a href="{{site.author.googlescholar}}">my Plataforma Lattes</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -21,7 +20,7 @@ or <a href="{{site.author.googlescholar}}">my Plataforma Lattes</a>.</div>
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2> <hr />
+        <h2>{{ category[1].title }}</h2><hr/>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
