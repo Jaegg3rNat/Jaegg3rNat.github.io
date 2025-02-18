@@ -81,10 +81,14 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    years:
+      2024:
+        title: '2024'
+      2023:
+        title: '2023'
   conferences:
     title: 'Conference Papers'
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
