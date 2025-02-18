@@ -23,9 +23,14 @@ author_profile: true
 
     <!-- Grouping by year within the "Journal Articles" category -->
     {% if category[0] == "manuscripts" %}
+{% assign grouped_by_year = category_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+
+
+
       {% assign grouped_by_year = category_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-      
-      {% for year in grouped_by_year %}
+      {% assign sorted_years = grouped_by_year | sort: "name" | reverse %}
+      {% for year in sorted_years %}
         <h3>{{ year.name }}</h3> <!-- Display the year -->
         <ul>
           {% for post in year.items %}
@@ -33,6 +38,8 @@ author_profile: true
           {% endfor %}
         </ul>
       {% endfor %}
+      
+     
     {% else %}
       {% for post in category_posts  %}
         {% include archive-single.html %}
