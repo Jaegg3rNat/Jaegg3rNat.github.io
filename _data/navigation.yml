@@ -23,7 +23,7 @@ main:
   - title: "CV"
     url: /cv/
 
-    - title: "Notes"
+  - title: "Notes"
     url: /notes/
     
   - title: "Guide"
