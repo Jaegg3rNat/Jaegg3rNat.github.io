@@ -15,22 +15,36 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr/>
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+    {% assign category_posts = site.publications | where: "category", category[0] %}
+
+    {% if category_posts.size > 0 %}
+      <h2>{{ category[1].title }}</h2><hr/>
+    {% endif %}
+
+    <!-- Grouping by year within the "Journal Articles" category -->
+    {% if category[0] == "manuscripts" %}
+      {% assign grouped_by_year = category_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      
+      {% for year in grouped_by_year %}
+        <h3>{{ year.name }}</h3> <!-- Display the year -->
+        <ul>
+          {% for post in year.items %}
+            {% include archive-single.html %}
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    {% else %}
+      {% for post in category_posts reversed %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
 
 
 
