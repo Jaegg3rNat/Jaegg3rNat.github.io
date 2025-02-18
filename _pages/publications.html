@@ -34,13 +34,13 @@ author_profile: true
         </ul>
       {% endfor %}
     {% else %}
-      {% for post in category_posts reversed %}
+      {% for post in category_posts  %}
         {% include archive-single.html %}
       {% endfor %}
     {% endif %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in site.publications  %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
