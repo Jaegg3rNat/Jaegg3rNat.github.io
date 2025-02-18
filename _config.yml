@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoc Research in Complex Systems and Stochastic Process"
   location         : "Earth"
-  employer         : "[IFISC - Institute for Cross-Disciplinary Physics and Complex Systems](https://ifisc.uib-csic.es/en/people/nathan-silvano/)  "
+  employer         : "IFISC - Institute for Cross-Disciplinary Physics and Complex Systems"
   uri              : # URL
   email            : "nathanosilvano@gmail.com" 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9385-4459"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   lattes           : "http://lattes.cnpq.br/4311770430758420"
