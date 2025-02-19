@@ -1,6 +1,6 @@
 /* Dark mode styles */
 .dark-mode {
-    background-color: #2A2A2A; /* Softer dark gray */
+    background-color: #414141; /* Softer dark gray */
     color: #E0E0E0; /* Slightly off-white for text */
 }
 
@@ -9,14 +9,14 @@
 }
 
 .dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
-    color: #2A2A2A;
+    color: #414141;
 }
 
 .dark-mode .navbar, .dark-mode .site-header {
-    background-color: #2A2A2A;
+    background-color: #414141;
 }
 
 .dark-mode .site-footer {
-    background-color: #2A2A2A;
+    background-color: #414141;
     color: #bbbbbb;
 }
