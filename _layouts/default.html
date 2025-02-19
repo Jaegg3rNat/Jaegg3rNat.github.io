@@ -18,7 +18,8 @@ layout: compress
     border: none;
     border-radius: 50%;
     width: clamp(40px, 5vw, 50px); height: clamp(40px, 5vw, 50px);
-    font-size: clamp(16px, 4vw, 20px);
+    font-size: clamp(22px, 5vw, 26px); /* Increased font size */
+    line-height: 1; /* Ensures the emoji is centered */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,11 +32,12 @@ layout: compress
 <style>
 @media (max-width: 768px) {
     #theme-toggle {
-        bottom: 60px; /* Moves it up slightly on mobile */
-        right: 10px;  /* Adjusted for smaller screens */
+        bottom: 60px;
+        right: 10px;
     }
 }
 </style>
+
 
 
 
