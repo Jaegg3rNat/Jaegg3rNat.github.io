@@ -1,5 +1,5 @@
 /* Dark mode styles */
-body.dark-mode {
+.dark-mode {
     background-color: #6C6C6C; /* Softer dark gray */
     color: #E0E0E0; /* Slightly off-white */
 }
