@@ -1,16 +1,19 @@
 /* Dark mode styles */
-.dark-mode {
-    background-color: #979797; /* Softer dark gray */
-    color: #E0E0E0; /* Slightly off-white for text */
+body.dark-mode {
+    background-color: #1E1E1E; /* Softer dark gray */
+    color: #E0E0E0; /* Slightly off-white */
 }
 
 .dark-mode a {
-    color: #bb86fc; /* Change link color */
+    color: #A3C4F3; /* Softer blue links */
 }
 
-.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
-    color: #979797;
+.dark-mode h1, .dark-mode h2, .dark-mode h3 {
+    color: #F0F0F0; /* Light gray for headings */
 }
+
+
+
 
 .dark-mode .navbar, .dark-mode .site-header {
     background-color: #979797;
@@ -19,4 +22,8 @@
 .dark-mode .site-footer {
     background-color: #979797;
     color: #bbbbbb;
+}
+
+body {
+    transition: background-color 0.4s ease, color 0.4s ease;
 }
