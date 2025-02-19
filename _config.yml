@@ -105,7 +105,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : dark    # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -285,6 +285,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+
+    # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: notes
       author_profile: true
       share: true
 
