@@ -1,0 +1,22 @@
+/* Dark mode styles */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode a {
+    color: #bb86fc; /* Change link color */
+}
+
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
+    color: #ffffff;
+}
+
+.dark-mode .navbar, .dark-mode .site-header {
+    background-color: #1e1e1e;
+}
+
+.dark-mode .site-footer {
+    background-color: #1e1e1e;
+    color: #bbbbbb;
+}
