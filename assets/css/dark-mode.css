@@ -1,6 +1,6 @@
 /* Dark mode styles */
 .dark-mode {
-    background-color: #6C6C6C; /* Softer dark gray */
+    background-color: #414141; /* Softer dark gray */
     color: #E0E0E0; /* Slightly off-white */
 }
 
@@ -16,11 +16,11 @@
 
 
 .dark-mode .navbar, .dark-mode .site-header {
-    background-color: #6C6C6C;
+    background-color: #414141;
 }
 
 .dark-mode .site-footer {
-    background-color: #6C6C6C;
+    background-color: #414141;
     color: #bbbbbb;
 }
 
