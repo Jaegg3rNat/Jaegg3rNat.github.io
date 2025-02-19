@@ -12,25 +12,34 @@ layout: compress
   </head>
   
 <button id="theme-toggle" style="
-    position: fixed; top: 10px; right: 10px; z-index: 1000;
+    position: fixed; bottom: 15px; right: 15px; z-index: 1000;
     background: #333;
     color: white;
     border: none;
     border-radius: 50%;
-    width: 40px; height: 40px; /* Reduced size */
-    font-size: 18px; /* Adjusted text size */
+    width: clamp(40px, 5vw, 50px); height: clamp(40px, 5vw, 50px);
+    font-size: clamp(16px, 4vw, 20px);
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     box-shadow: 0 3px 8px rgba(0,0,0,0.2);
     transition: 0.3s;">
-    ⚪
+    🌗
 </button>
 
+<style>
+@media (max-width: 768px) {
+    #theme-toggle {
+        bottom: 60px; /* Moves it up slightly on mobile */
+        right: 10px;  /* Adjusted for smaller screens */
+    }
+}
+</style>
 
 
-</button>
+
+
 
 
 
