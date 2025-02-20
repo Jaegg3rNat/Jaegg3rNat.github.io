@@ -1,7 +1,7 @@
 /* Dark mode styles */
-.dark-mode {
+body.dark-mode {
     background-color: #414141; /* Softer dark gray */
-    color: #E0E0E0; /* Slightly off-white */
+    color: #F0F0F0; /* Slightly off-white */
 }
 
 .dark-mode a {
@@ -21,7 +21,7 @@
 
 .dark-mode .site-footer {
     background-color: #414141;
-    color: #bbbbbb;
+    color: #F0F0F0;
 }
 
 body {
