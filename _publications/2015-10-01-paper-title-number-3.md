@@ -1,7 +1,7 @@
 ---
 title: "Laser induced 𝒫𝒯-symmetry breaking in the fluctuations of electronic fluids."
 collection: publications
-category: manuscripts/2024  # This groups the publication under "Journal Articles" → "2016"
+category: manuscripts  # This groups the publication under "Journal Articles" → "2016"
 permalink: /publication/2024-paper-laser-PTsimmetry
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-23
