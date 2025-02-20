@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+    For a complete detailed CV click here
 {% include base_path %}
 
 Education
@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2025- on going: Academic Pages Collaborator
+* 2025- on going: Postdoctoral Reasercher
   * IFISC - Spain
   * Duties includes: Reasearch stochastic dynamics, pattern formation
   * Supervisor: Emilio Hernandez-Garcia
