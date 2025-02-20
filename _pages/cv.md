@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
     For a complete detailed CV click here
+
 {% include base_path %}
 
 Education
@@ -24,12 +25,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Renormalization Group 
+* Numerical Simulations
+  * Python
+  * Molecular Dynamics
+  * Deterministic and Stochastic Integration of PDE's
+* Languages
+  * English
+  * Portuguese
+  * Spanish
+  * German
 
 Publications
 ======
@@ -49,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
