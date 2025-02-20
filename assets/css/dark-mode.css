@@ -8,7 +8,7 @@
     color: #bb86fc; /* purple links */
 }
 
-.dark-mode h1, .dark-mode h2, .dark-mode h3 {
+.dark-mode h1, .dark-mode h2, .dark-mode h3 .dark-mode h4 {
     color: #F0F0F0; /* Light gray for headings */
 }
 
