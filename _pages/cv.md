@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-   You can view my document [here](https://drive.google.com/path-to-your-document).
-
+  
 
 {% include base_path %}
+ You can view my document [here](https://drive.google.com/path-to-your-document).
 
 Education
 ======
