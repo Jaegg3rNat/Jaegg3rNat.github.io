@@ -1,0 +1,14 @@
+---
+layout: default
+title: Notes
+permalink: /notes/
+---
+
+<h1>Notes</h1>
+<ul>
+    {% for note in site.pages %}
+        {% if note.path contains '_notes/' %}
+            <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
