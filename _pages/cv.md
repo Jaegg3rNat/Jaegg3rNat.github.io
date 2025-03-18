@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-    For a complete detailed CV click here
+   You can view my document [here](https://drive.google.com/path-to-your-document).
+
 
 {% include base_path %}
 
