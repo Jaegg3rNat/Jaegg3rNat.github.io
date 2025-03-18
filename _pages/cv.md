@@ -9,7 +9,7 @@ redirect_from:
   
 
 {% include base_path %}
- You can view my document [here](https://drive.google.com/path-to-your-document).
+ For a complete CV click [here](https://drive.google.com/path-to-your-document).
 
 Education
 ======
