@@ -1,7 +1,7 @@
 ---
 title: "4th Summer School UERJ"
 collection: teaching
-type: "Undergraduate course"
+type: "Short Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "PPGF-UERJ"
 date: 2020-01-01
