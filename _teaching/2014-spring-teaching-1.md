@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "4th Summer School UERJ"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "PPGF-UERJ"
+date: 2020-01-01
+location: "Rio de Janeiro, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Quantum Mechanics Exercices and Applications
 
 Heading 1
 ======
