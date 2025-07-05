@@ -33,7 +33,7 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "##volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -47,18 +47,18 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universidade do Estado do Rio de Janeiro",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "http://www.posif.uerj.br/",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-01-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "#courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
+  "##awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -165,6 +165,11 @@
       "fluency": "Fluent",
       "icon": ""
     }
+    {
+      "language": "German",
+      "fluency": "Basic A2",
+      "icon": ""
+    }
   ],
   "interests": [
     {
@@ -182,17 +187,17 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Daniel Barci",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Ricardo martinez-Garcia",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
-  "projects": [
+  "##projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
