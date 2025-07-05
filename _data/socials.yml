@@ -29,8 +29,8 @@ lattes_id: 4311770430758420# your ID on Lattes (Brazilian Lattes CV)
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile:Nathan De Oliveira Silvano # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+research_gate_profile: Nathan De Oliveira Silvano # your profile on ResearchGate
+#rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: YGPUfiYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
