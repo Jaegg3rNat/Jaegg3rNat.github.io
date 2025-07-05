@@ -27,7 +27,7 @@
       "name": "IFISC - (UIB-CSIC)",
       "position": "Postdoctoral Researcher",
       "url": "https://example.com",
-      "startDate": "2025-13-01",
+      "startDate": "2025-01",
       "endDate": "now",
       "summary": "",
       "highlights": [""]
@@ -52,11 +52,23 @@
       "url": "http://www.posif.uerj.br/",
       "area": "Theoretical Physics, Quantum Field Theory",
       "studyType": "PhD",
-      "startDate": "2020-01-01",
-      "endDate": "2024-01-01",
+      "startDate": "2020-09",
+      "endDate": "2024-10",
+      "score": "",
+      "_courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Universidade do Estado do Rio de Janeiro",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "http://www.posif.uerj.br/",
+      "area": "Theoretical Physics, Gravitation and Cosmology",
+      "studyType": "Master",
+      "startDate": "2018-09",
+      "endDate": "2020-08",
       "score": "",
       "_courses": ["Theory of Relativity"]
     }
+    
   ],
   "awards": [
     {
@@ -67,7 +79,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "##certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
