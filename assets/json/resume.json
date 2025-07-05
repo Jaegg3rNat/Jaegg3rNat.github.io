@@ -33,7 +33,7 @@
       "highlights": ["Relativity"]
     }
   ],
-  "##volunteer": [
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -55,10 +55,10 @@
       "startDate": "2020-01-01",
       "endDate": "2024-01-01",
       "score": "",
-      "#courses": ["Theory of Relativity"]
+      "_courses": ["Theory of Relativity"]
     }
   ],
-  "##awards": [
+  "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
