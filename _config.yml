@@ -264,6 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Silvano]
+  middle_name: [O., Oliveira]
   first_name: [Nathan, N.]
 
   style: apa
