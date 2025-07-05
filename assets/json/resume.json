@@ -1,23 +1,23 @@
 {
   "basics": {
     "name": "Nathan Silvano",
-    "label": "Scientist",
+    "label": "",
     "image": "",
     "email": "nathanosilvano@gmail.com",
-    "phone": "--",
+    "phone": "",
     "url": "https://Jaegg3rNat.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A theoretical physicist, interested in complex system",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Palma",
+      "countryCode": "ES",
+      "region": "Illes Baleares"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "",
+        "username": "",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
