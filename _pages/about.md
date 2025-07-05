@@ -9,9 +9,9 @@ profile:
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Reasearcher Fellow</p>
+    <p>Reasearcher Fellow / Complex Systems </p>
     <p>IFISC - (CSIC-UIB)</p>
-    <p>Palma, Spain</p>
+    <p>Palma de Mallorca, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
   
 ---
-I am posdoctoral researcher working with Complex Systems. 
-
-I have a background in Theoretical Physics. 
+I received my doctorate in Theoretical Physics at the University of State of Rio de Janeiro in 2024.
+My research specializes in complex systems, stochastic dynamics and renormalization group with the focus in phase transitions and pattern formation.
 
