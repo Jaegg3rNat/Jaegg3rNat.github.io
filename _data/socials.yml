@@ -3,7 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
 # acm_id: # your dl.acm.org/profile/id
-arXiv_id: https://arxiv.org/search/?searchtype=author&query=Silvano%2C+N+O
+# arxiv_id: https://arxiv.org/search/?searchtype=author&query=Silvano%2C+N+O
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
@@ -11,7 +11,7 @@ arXiv_id: https://arxiv.org/search/?searchtype=author&query=Silvano%2C+N+O
 email: nathan@ifisc.uib-csic.es # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
- github_username: Jaegg3rNat # your GitHub user name
+github_username: Jaegg3rNat # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -19,12 +19,12 @@ email: nathan@ifisc.uib-csic.es # your email address
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
-lattes_id: 4311770430758420# your ID on Lattes (Brazilian Lattes CV)
+lattes_id: 4311770430758420 # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
- orcid_id: https://orcid.org/0000-0001-9385-4459# your ORCID ID
+orcid_id: https://orcid.org/0000-0001-9385-4459# your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
