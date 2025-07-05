@@ -131,14 +131,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0001-9385-4459# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0001-9385-4459", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Nathan De Oliveira Silvano/", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Nathan-De-Silvano?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-scholar',
