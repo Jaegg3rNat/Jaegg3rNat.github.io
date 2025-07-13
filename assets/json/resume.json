@@ -125,26 +125,20 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Dynamical phase transitions in two-dimensional Brownian matter",
+      "publisher": "Physica A",
+      "releaseDate": "2025-05-01",
+      "url": "https://doi.org/10.1016/j.physa.2025.130482",
+      "summary": " - -"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Emergent gauge symmetry in active Brownian mattert",
+      "publisher": "Physics Review E",
+      "releaseDate": "2025-03-24",
+      "url": "https://doi.org/10.1103/PhysRevE.109.044605",
+      "summary": "."
     },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+   
   ],
   "skills": [
     {
@@ -152,12 +146,22 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Renormalization Group",
+        "Mean field theory techniques",
+        "Stochastic Dynamics",
+        "Differential Geometry"
+      ]
+    },
+     {
+      "name": "Numerical Simulations",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PDE integrations",
+        "Pseudospectral Algorithms",
+        "Stochastic Simulations",
+        "Discrete Particle Dynamics",
+        "Time Series Anylisis"
       ]
     }
   ],
@@ -180,6 +184,16 @@
     {
       "language": "German",
       "fluency": "Basic A2",
+      "icon": ""
+    },
+     {
+      "language": "Python",
+      "fluency": "Advanced",
+      "icon": ""
+    },
+     {
+      "language": "Julia",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
