@@ -5,11 +5,12 @@ permalink: /
 subtitle: <a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Reasearcher Fellow / Complex Systems </p>
+    <p>Reasearcher Fellow</p>
+    <p> Complex Systems</p>
     <p>IFISC - (CSIC-UIB)</p>
     <p>Palma de Mallorca, Spain</p>
 
