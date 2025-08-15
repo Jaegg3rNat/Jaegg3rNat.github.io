@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC</a>. Address. Contacts. Motto. Etc.
+subtitle: #  Email:nathanosilvano@gmail.com .
 
 profile:
   align: left
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Reasearcher Fellow</p>
     <p> Complex Systems</p>
-    <p>IFISC - (CSIC-UIB)</p>
+    <p><a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC - (CSIC-UIB)</a> </p>
     <p>Palma de Mallorca, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -30,4 +30,7 @@ latest_posts:
 ---
 I received my doctorate in Theoretical Physics at the University of State of Rio de Janeiro in 2024.
 My research specializes in complex systems, stochastic dynamics and renormalization group with the focus in phase transitions and pattern formation.
+
+###Research Interests:
+  - Nonlinear Dynamics, Complex Systems, Statistical Physics, Condensed Matter, Active Matter, Pattern Formation, Biological Modelling, Quantum Field Theory.
 
