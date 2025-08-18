@@ -31,8 +31,10 @@ latest_posts:
 I received my doctorate in Theoretical Physics at the University of State of Rio de Janeiro in 2024.
 My research specializes in complex systems, stochastic dynamics and renormalization group with the focus in phase transitions and pattern formation.
 
-I am currently a Post-Doc Research Fellow at IFISC.
+I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
-### Research Interests:
-  - Nonlinear Dynamics, Complex Systems, Statistical Physics, Condensed Matter, Active Matter, Pattern Formation, Biological Modelling, Quantum Field Theory.
+_Research Interests:_
+  - Nonlinear Dynamics, Complex Systems, Statistical Physics,
+  - Condensed Matter, Active Matter, Pattern Formation,
+  - Biological Modelling, Quantum Field Theory, Renormalization Group.
 
