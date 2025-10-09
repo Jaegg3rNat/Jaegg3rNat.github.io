@@ -33,8 +33,8 @@ My research specializes in complex systems, stochastic dynamics and renormalizat
 
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
-_Research Interests:_
+_Research Interests:_ Some of my research interests are
   - Nonlinear Dynamics, Complex Systems, Statistical Physics,
-  - Condensed Matter, Active Matter, Pattern Formation,
-  - Biological Modelling, Quantum Field Theory, Renormalization Group.
+  - Active Matter, Active Solids, Pattern Formation, Biological Modelling,
+  - Condensed Matter,  Quantum Field Theory, Renormalization Group.
 
