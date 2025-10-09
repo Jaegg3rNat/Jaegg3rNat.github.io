@@ -151,6 +151,7 @@ exclude:
   - _pages/blog.md
   - _pages/profiles.md
   - _pages/projects.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
