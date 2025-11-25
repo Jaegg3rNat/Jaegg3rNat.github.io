@@ -42,6 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/brandon_sanderson_SL5.html";
+            },},{id: "books-las-venas-abiertas-de-latino-america",
+          title: 'Las Venas Abiertas de Latino America',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/venasabiertas.html";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
