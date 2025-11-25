@@ -37,7 +37,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-the-godfather",
+            },{id: "books-viento-y-verdad",
+          title: 'Viento y Verdad',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brandon_sanderson_SL5.html";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
