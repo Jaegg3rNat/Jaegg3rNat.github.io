@@ -1,9 +1,12 @@
 ---
-title: "Videos"
-layout: single
+layout: page
+title: videos
 permalink: /videos/
-author_profile: true
+description: A growing collection of your cool projects.
+nav: true
+nav_order: 3
 ---
+
 
 # Videos
 
