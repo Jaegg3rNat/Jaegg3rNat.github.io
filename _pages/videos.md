@@ -40,7 +40,7 @@ This lecture introduces the basic concepts of machine learning, including superv
 ## Example Video 2
 
 <video controls width="100%">
-  <source src="/assets/videos/my-video.mp4" type="video/mp4">
+  <source src="/assets/videos/SM_video7V2.mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
 
