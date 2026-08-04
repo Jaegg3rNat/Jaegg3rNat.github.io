@@ -40,7 +40,7 @@ This lecture introduces the basic concepts of machine learning, including superv
 ## Prolferating Flocking
 
 <video controls width="100%">
-  <source src="/assets/videos/SM_video7V2.mov" type="video/mov">
+  <source src="/assets/video/prr_video2026.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
