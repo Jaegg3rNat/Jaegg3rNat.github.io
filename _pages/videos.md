@@ -37,7 +37,7 @@ This lecture introduces the basic concepts of machine learning, including superv
 
 ---
 
-## Example Video 2
+## Prolferating Flocking
 
 <video controls width="100%">
   <source src="/assets/videos/SM_video7V2.mov" type="video/mov">
@@ -46,11 +46,9 @@ This lecture introduces the basic concepts of machine learning, including superv
 
 ### Title
 
-**Conference Presentation**
-
 ### Description
 
-This presentation summarizes our recent work on AI-assisted software engineering. It discusses the motivation, methodology, experimental results, and future research directions.
+Numerical simulation of Density and Polarization fields showing expontaneous flocking behaviour
 
 ---
 
