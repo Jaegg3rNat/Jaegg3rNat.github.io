@@ -25,7 +25,7 @@ Numerical simulation of Density and Polarization fields showing expontaneous flo
 
 ---
 <video controls width="50%">
-  <source src="/assets/video/SSF_phase.mov" type="video/mov">
+  <source src="/assets/video/SSF_phase.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ### Synchronous Particle Simulation
