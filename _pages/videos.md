@@ -37,7 +37,7 @@ Numerical simulation of Density and Polarization fields showing expontaneous flo
 ## Environmental Shear Flow
 
 <video controls width="100%">
-  <source src="/assets/video/CommPhys2025.mp4" type="video/mp4">
+  <source src="/assets/video/CommPhys2025_v1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
