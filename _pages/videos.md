@@ -49,14 +49,9 @@ Numerical simulation of Density field under vortex environemtal flow
 [//]: # ## Example Video 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
-<iframe
-src="https://youtu.be/UfAz9G6alHY?si=8h3yYbrlFXGyQOxK"
-title="ICTP-SAIFR Seminar"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen
-style="position:absolute;top:0;left:0;width:10%;height:10%;">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfAz9G6alHY?si=fmKavemWR8HC5jX_" 
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
 </div>
 
 [//]: # ### Title
