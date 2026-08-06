@@ -37,7 +37,7 @@ Numerical simulation of Density and Polarization fields showing expontaneous flo
 ## Environmental Shear Flow
 
 <video controls width="100%">
-  <source src="/assets/video/CommPhys2025_v1.mp4" type="video/mp4">
+  <source src="/assets/video/CommPhy2025_v1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -48,11 +48,11 @@ Numerical simulation of Density field under vortex environemtal flow
 [//]: # ## Example Video 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
-<iframe
-src="https://www.youtube.com/watch?v=UfAz9G6alHY&t=2863s"
+<iframe>
+src="https://youtu.be/UfAz9G6alHY?si=8h3yYbrlFXGyQOxK"
 title="ICTP-SAIFR Seminar"
 frameborder="0"
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen
 style="position:absolute;top:0;left:0;width:10%;height:10%;">
 </iframe>
