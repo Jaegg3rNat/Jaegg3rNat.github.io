@@ -34,6 +34,17 @@ Numerical simulation of Density and Polarization fields showing expontaneous flo
 
 ---
 
+## Environmental Shear Flow
+
+<video controls width="100%">
+  <source src="/assets/video/CommPhys2025.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### Description
+
+Numerical simulation of Density field under vortex environemtal flow
+
 [//]: # ## Example Video 
 
 [//]: # <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
