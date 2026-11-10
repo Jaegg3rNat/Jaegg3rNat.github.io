@@ -5,7 +5,7 @@ permalink: /
 subtitle: #  Email:nathanosilvano@gmail.com .
 
 profile:
-  align: left
+  align: right
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
@@ -28,9 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
   
 
-
-<div style="margin-left: 3rem;">
-
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
 _Research Interests:_ Some of my research interests are
@@ -38,4 +35,3 @@ _Research Interests:_ Some of my research interests are
   - Active Matter, Active Solids, Pattern Formation, Biological Modelling,
   - Condensed Matter, Quantum Field Theory, Renormalization Group.
 
-</div>
