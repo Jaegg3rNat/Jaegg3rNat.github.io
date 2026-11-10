@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: #  Email:nathanosilvano@gmail.com .
+subtitle: "Email: nathanosilvano@gmail.com"
 
 profile:
-  align: right
+  align: left
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Reasearcher Fellow</p>
-    <p> Complex Systems</p>
-    <p><a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC - (CSIC-UIB)</a> </p>
+    <p>Researcher Fellow</p>
+    <p>Complex Systems</p>
+    <p><a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC - (CSIC-UIB)</a></p>
     <p>Palma de Mallorca, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,6 +26,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
 ---
 
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
