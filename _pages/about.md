@@ -5,7 +5,7 @@ permalink: /
 subtitle: #  Email:nathanosilvano@gmail.com .
 
 profile:
-  align: left
+  align: right
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
@@ -26,7 +26,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
