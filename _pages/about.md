@@ -29,7 +29,7 @@ latest_posts:
   
 
 
-<div style="margin-left: 2rem;">
+<div style="margin-left: 3rem;">
 
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
