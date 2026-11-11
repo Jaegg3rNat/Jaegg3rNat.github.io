@@ -5,7 +5,7 @@ permalink: /
 subtitle: "Email: nathanosilvano@gmail.com"
 
 profile:
-  align: left
+  align: right
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
