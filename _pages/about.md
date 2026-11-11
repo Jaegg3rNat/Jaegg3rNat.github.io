@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Email: nathanosilvano@gmail.com"
+subtitle: "Researcher Fellow"
 
 profile:
   align: right
   image: eu_.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Researcher Fellow</p>
-    <p>Complex Systems</p>
+  more_info: 
+    <p>Complex Systems in Life and the Environment</p>
     <p><a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC - (CSIC-UIB)</a></p>
     <p>Palma de Mallorca, Spain</p>
 
@@ -32,7 +31,7 @@ latest_posts:
 <div style="margin-left: 2rem;">
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
-_Research Interests:_ Some of my research interests are
+Some of my research interests are
   - Nonlinear Dynamics, Complex Systems, Statistical Physics,
   - Active Matter, Active Solids, Pattern Formation, Biological Modelling,
   - Condensed Matter, Quantum Field Theory, Renormalization Group.
