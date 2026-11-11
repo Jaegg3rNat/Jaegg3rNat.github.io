@@ -136,7 +136,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Nathan-De-Silvano?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Nathan-De-Silvano/", "_blank");
         },
       },{
         id: 'social-scholar',
