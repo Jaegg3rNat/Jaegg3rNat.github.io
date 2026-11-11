@@ -29,9 +29,12 @@ latest_posts:
 
 ---
 
+<div style="margin-left: 2rem;">
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
 _Research Interests:_ Some of my research interests are
   - Nonlinear Dynamics, Complex Systems, Statistical Physics,
   - Active Matter, Active Solids, Pattern Formation, Biological Modelling,
   - Condensed Matter, Quantum Field Theory, Renormalization Group.
+
+</div>
