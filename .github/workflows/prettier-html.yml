@@ -20,6 +20,8 @@ jobs:
 
       - name: Install Prettier
         run: npm install -g prettier
+      - name: Install Prettier & Liquid Plugin
+        run: npm install --save-dev prettier @shopify/prettier-plugin-liquid
 
       - name: Check for Prettier
         run: npx prettier --version || echo "Prettier not found"
