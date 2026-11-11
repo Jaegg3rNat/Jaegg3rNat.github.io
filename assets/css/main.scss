@@ -24,12 +24,12 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/* Shrink and center profile social icons */
+/* Increase social icon size */
 .profile .contact-icons {
-  font-size: 2.3rem; /* Adjust this value to make them smaller or larger */
+  font-size: 1.3rem; /* You can increase this too, but the a tag overrides it */
 
   a {
-    font-size: 3.1rem !important;
-    margin: 0 4px;
+    font-size: 2.2rem !important; /* INCREASE THIS (e.g., 2rem, 2.5rem, or 3rem) */
+    margin: 0 8px; /* INCREASE MARGIN to give them more breathing room */
   }
 }
