@@ -13,7 +13,7 @@ To get straight to the point, what happened is that Levant Alpöge, a Turkish-No
 
 <div class="row justify-content-center mt-3 mb-3">
   <div class="col-sm-10">
-    {% include figure.liquid loading="eager" path="assets/img/blog/riemann/image_1795500867402_0.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/blog/post_1/img1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
