@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-viento-y-verdad",
+            },{id: "post-riemann-and-the-robot",
+        
+          title: "Riemann and the Robot",
+        
+        description: "Regarding the Claude &quot;solution&quot;.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Riemann_and_Robot/";
+          
+        },
+      },{id: "books-viento-y-verdad",
           title: 'Viento y Verdad',
           description: "",
           section: "Books",handler: () => {
