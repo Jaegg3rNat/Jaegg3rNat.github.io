@@ -135,7 +135,7 @@ So, is it a solution?
 
 Apparently, it has been formally verified by Lean. On November 21st, the Lean FRO [ref](https://officechai.com/ai/lean-community-certifies-levent-alpoges-claude-assisted-proof-of-the-riemann-hypothesis-as-correct/) released a statement saying that
 
-> *We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement.*
+> *We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement. [Lean](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)*
 
 But no human being can realistically read and understand the entire proof in its current form.
 
