@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Researcher Fellow"
+subtitle: "Researcher Fellow | e-mail: nathan@ifisc.uib-csic.es"
 
 profile:
   align: right
   image: eu_.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: 
-    <p>Complex Systems in Life and the Environment</p>
+    <p><strong>Complex Systems in Life and the Environment</strong></p>
     <p><a href='https://ifisc.uib-csic.es/en/people/nathan-silvano/'>IFISC - (CSIC-UIB)</a></p>
     <p>Palma de Mallorca, Spain</p>
 
@@ -28,7 +28,7 @@ latest_posts:
 
 ---
 
-<div style="margin-left: 2rem;">
+<div style="margin-left: 0rem;">
 I am currently a Post-Doc Research Fellow at Institute for Cross-Disciplinary Physics and Complex Systems.
 
 Some of my research interests are
@@ -37,3 +37,24 @@ Some of my research interests are
   - Condensed Matter, Quantum Field Theory, Renormalization Group.
 
 </div>
+
+
+{% assign about_sections = "work,education" | split: "," %}
+<div class="cv">
+{% for name in about_sections %}
+{% for data in site.data.resume %}
+{% if data[0] == name %}
+<div class="card mt-3 p-3">
+<h3 class="card-title font-weight-medium">{{ name | capitalize }}</h3>
+<div>
+{% include resume/{{ name }}.liquid %}
+</div>
+</div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+
+
+
+
